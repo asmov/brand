@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+    width="11" height="4">
+
+<!-- outer parallelogram -->
+<polygon points="2 0, 11 0, 9 4, 0 4" fill="transparent" stroke="black" stroke-width="1%" />
+
+<!-- A shape -->
+<polygon points="2 0, 4 4, 0 4" fill="yellow" stroke="black" stroke-width="1%" />
+
+<!-- A line -->
+<line x1="2" y1="3" x2="2" y2="4" stroke="black" stroke-width="1%" />
+
+<!-- s shape -->
+<polygon points="3 2, 5 2, 4 4" fill="yellow" stroke="black" stroke-width="1%" />
+
+<!-- m shape -->
+<polygon points="5 2, 6 2, 7 4, 4 4" fill="yellow" stroke="black" stroke-width="1%" />
+
+<!-- m line #1 -->
+<line x1="5" y1="3.25" x2="5" y2="4" stroke="black" stroke-width="1%" />
+
+<!-- m line #2 -->
+<line x1="6" y1="3.25" x2="6" y2="4" stroke="black" stroke-width="1%" />
+
+<!-- o shape -->
+<polygon points="6 2, 8 2, 9 4, 7 4" fill="yellow" stroke="black" stroke-width="1%" />
+
+<!-- V shape -->
+<polygon points="7 0, 11 0, 9 4" fill="yellow" stroke="black" stroke-width="1%" />
+
+<!-- V line -->
+<line x1="9" y1="0" x2="9" y2="1" stroke="black" stroke-width="1%" />
+
+<!-- inner parallelogram -->
+<polygon points="2 0, 7 0, 8 2, 3 2" fill="transparent" stroke="black" stroke-width="1%" />
+
+</svg>
