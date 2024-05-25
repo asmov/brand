@@ -1,0 +1,16 @@
+<svg width="500px" height="500px" viewBox="0 0 500 500"
+    xmlns="http://www.w3.org/2000/svg">
+  <style>
+    polygon {
+      fill: yellow;
+      stroke: black;
+      stroke-width: 4px;
+    }
+    line {
+      stroke: black;
+      stroke-width: 8px;
+    }
+  </style>
+  <polygon points="105,5 495,5 405,495 5,495" /> 
+  <line x1="105" y1="5" x2="405" y2="495" />
+</svg>
