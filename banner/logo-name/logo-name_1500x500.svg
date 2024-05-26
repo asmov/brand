@@ -1,4 +1,4 @@
-<svg width="1500px" height="500px" viewBox="0 0 1500 500"
+<svg width="1600px" height="500px" viewBox="0 0 1600 500"
     xmlns="http://www.w3.org/2000/svg">
   <style>
     polygon {
@@ -19,5 +19,5 @@
   </style>
   <polygon points="105,5 495,5 405,495 5,495" /> 
   <line x1="105" y1="5" x2="405" y2="495" />
-  <text x="450" y="350">asmov</text>
+  <text x="510" y="350">asmov</text>
 </svg>
