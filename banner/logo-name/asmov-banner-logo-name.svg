@@ -3,12 +3,6 @@
   <style>
     polygon {
       fill: yellow;
-      stroke: black;
-      stroke-width: 4px;
-    }
-    line {
-      stroke: black;
-      stroke-width: 8px;
     }
     text {
       font-family: 'sans-serif';
@@ -17,7 +11,8 @@
       font-weight: bold;
     }
   </style>
-  <polygon points="105,5 495,5 405,495 5,495" /> 
-  <line x1="105" y1="5" x2="405" y2="495" />
+  <!-- parallelogram: <polygon points="105,5 495,5 405,495 5,495" /> -->
+  <polygon points="125,5 495,5 405,475" /> 
+  <polygon points="105,25 5,495 385,495" />
   <text x="510" y="350">asmov</text>
 </svg>

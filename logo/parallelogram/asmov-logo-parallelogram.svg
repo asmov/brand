@@ -1,0 +1,10 @@
+<svg width="500px" height="500px" viewBox="0 0 500 500"
+    xmlns="http://www.w3.org/2000/svg">
+  <style>
+    polygon {
+      fill: yellow;
+    }
+  </style>
+  <polygon points="125,5 495,5 405,475" /> 
+  <polygon points="105,25 5,495 385,495" />
+</svg>
